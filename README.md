@@ -1,6 +1,6 @@
 #T20 World cup 2026 Database Project
 
-#Overvier
+#Overview
 this project is a relational database design for t20 world cup 2026 using MySQL.
 
 #tables
